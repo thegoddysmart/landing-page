@@ -2,6 +2,9 @@
 
 Welcome to the Landing Project! This project showcases a personal landing page with information about Godfred Awudi, a developer passionate about learning and growing in the field of Computer Science.
 
+## Screenshot
+![Landing Page Screenshot](./landing-page.png)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
